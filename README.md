@@ -2,7 +2,7 @@
 model : ResNet50
 [Download weight data](https://drive.google.com/file/d/12kgtrjPKAUGo-TXf43aTRHna4eU1rJwf/view?usp=sharing)  
 
-**parameter setting**
+**parameter setting**  
   color mode = rgb  
   batch size = 16  
   learning rate = 1e-4  
