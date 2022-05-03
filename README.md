@@ -6,7 +6,7 @@ model : ResNet50
   * color mode = rgb  
   * batch size = 16  
   * learning rate = 1e-4  
-  *epoch =50  
+  * epoch =50  
 **result**  
   * val_accuracy = 97%  
   
