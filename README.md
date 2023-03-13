@@ -7,7 +7,7 @@ To use this project, you need to have Python 3 and Jupyter Notebook installed on
 
 You also need to download the dataset from [Kaggle](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset) and place it in the same folder as the notebook file.
 
-Additionally, you need to download the pre-trained weights for ResNet50 from [here](https://drive.google.com/file/d/12kgtrjPKAUGo-TXf43aTRHna4eU1rJwf/view?usp=sharing) and save them as ** resnet50_weights.h5 ** in the same folder.
+Additionally, you need to download the pre-trained weights for ResNet50 from [here](https://drive.google.com/file/d/12kgtrjPKAUGo-TXf43aTRHna4eU1rJwf/view?usp=sharing) and save them as ''' resnet50_weights.h5 ''' in the same folder.
 
 
 ## Usage
