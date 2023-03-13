@@ -16,11 +16,7 @@ The dataset is downloaded from kaggle [Alzheimer MRI Preprocessed Dataset](https
 
 # alzheimer-brain-mri-classifier
 
-This project uses ResNet50 model to perform multi-class classification on brain MRI images of Alzheimer's disease. The dataset comes from [Kaggle](https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images) , which contains four classes: Normal, Non-Alzheimer's Mild Cognitive Impairment (MCI), Alzheimer's Mild Cognitive Impairment (AD-MCI), and Alzheimer's Disease (AD). The dataset has a total of 5121 images, of which 4096 are used for training and 1025 are used for testing.
-
-### alzheimer-brain-mri-classifier
-
-This project uses ResNet50 model to perform multi-class classification on brain MRI images of Alzheimer's disease. The dataset comes from [Kaggle](https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images) , which contains four classes: Normal, Non-Alzheimer's Mild Cognitive Impairment (MCI), Alzheimer's Mild Cognitive Impairment (AD-MCI), and Alzheimer's Disease (AD). The dataset has a total of 5121 images, of which 4096 are used for training and 1025 are used for testing.
+This project uses ResNet50 model to perform multi-class classification on brain MRI images of Alzheimer's disease. The dataset comes from [Kaggle](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset) , which contains four classes: 
 
 ## Usage
 
